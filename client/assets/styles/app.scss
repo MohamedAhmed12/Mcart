@@ -1,0 +1,18 @@
+/* start standerds */
+body {
+}
+.container{
+    max-width: 1400px
+}
+.section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card-title{
+    color: #212529;
+    &:hover{
+        color: #212529;
+        text-decoration: none
+    }
+}
+/* end standerds */
